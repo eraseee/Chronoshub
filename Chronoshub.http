@@ -1,0 +1,6 @@
+@Chronoshub_HostAddress = http://localhost:5189
+
+GET {{Chronoshub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
